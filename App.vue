@@ -16,7 +16,7 @@
 </template>
 
 <script>
-import ToDoItem from ./ToDoItem.vue';
+import ToDoItem from './ToDoItem.vue';
 import ToDoForm from './ToDoForm';
 import uniqueId from 'lodash.uniqueid'
 
